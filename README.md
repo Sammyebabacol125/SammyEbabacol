@@ -1,5 +1,7 @@
 #ECHO SERVER/CLIENT
+
 A chatroom that can handle multiple clients.
+
 #HOW TO USE:
 1. Download the file of Client.java and Server.java
 2. First, run the server, then the client.
